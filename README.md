@@ -35,4 +35,4 @@ infos.getCompany() # Return company of the module
 ```
 
 ## License
-[Novus Space](https://novussapce.inovaperf.me/License.html)
+[Novus Space](https://novusspace.inovaperf.me/License.html)
