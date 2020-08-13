@@ -1,4 +1,4 @@
 # Novus Space Python module
-'''python
+```python
 import novusspace
-'''
+```
