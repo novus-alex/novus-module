@@ -1,1 +1,4 @@
-# novus-module
+# Novus Space Python module
+'''python
+import novusspace
+'''
