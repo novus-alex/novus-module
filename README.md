@@ -24,3 +24,15 @@ from novusspace import update
 
 update.update('old file', 'new file url', 'new file name', 'path where the new file will be added', logs=(False is the basic set up))
 ```
+
+## Module infos
+```python
+from novusspace.credentials import infos
+
+infos.getVersion() # Return version of the module
+infos.getAuthor() # Return author of the module
+infos.getCompany() # Return company of the module
+```
+
+## License
+[Novus Space](https://novussapce.inovaperf.me/License.html)
