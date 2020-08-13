@@ -17,3 +17,10 @@ from novusspace import var
 var.toIntList('Your list here') # Change str list to int list
 var.toStrList('Your list here') # Change int list to str list
 ```
+
+## Module update
+```python
+from novusspace import update
+
+update.update('old file', 'new file url', 'new file name', 'path where the new file will be added', logs=(False is the basic set up))
+```
