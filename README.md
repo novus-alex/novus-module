@@ -3,3 +3,8 @@ Please download the files and put the novusspace directory in the root of your p
 ```python
 import novusspace
 ```
+## First setup
+Fof the first setup, make sur pip is a command in your os shell and you got the novusspace directory in your project root, then you can run setup.py with this command in the terminal of your root project
+```
+python novusspace/setupt.py
+```
