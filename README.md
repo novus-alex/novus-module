@@ -8,3 +8,12 @@ Fof the first setup, make sur pip is a command in your os shell and you got the 
 ```
 python novusspace/setupt.py
 ```
+Now you can totally use the novusspace module
+
+## Module var
+```python
+from novusspace import var
+
+var.toIntList('Your list here') # Change str list to int list
+var.toStrList('Your list here') # Change int list to str list
+```
