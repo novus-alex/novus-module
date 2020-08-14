@@ -22,7 +22,7 @@ var.toStrList('Your list here') # Change int list to str list
 ```python
 from novusspace import update
 
-update.update('old file', 'new file url', 'new file name', 'path where the new file will be added', logs=(False is the basic set up))
+update.update('old file', 'new file url', 'new file name', 'path where the new file will be added', logs=(False is the default value))
 ```
 
 ## Module infos
